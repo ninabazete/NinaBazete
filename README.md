@@ -7,8 +7,6 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning by myself, autodidact.
 - 👯 I’m looking for front-end collabs.
 - 🤔 I’m looking for help with with Angular and React
-- 💬 Ask me about HTML - CSS - JS
-- 📫 contact me by: janainabazete@gmail.com
 - 😄 Pronouns: She/ Her
 - ⚡ Fun fact: I worked for 10 year with marketig and product development.
 
@@ -35,5 +33,5 @@ Here are some ideas to get you started:
 <div>
  <a href="https://www.linkedin.com/in/janainabazete/" targety="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  <a href="https://discord.gg/NinaBazete#8698" targety="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
- <a href="mailto:janainabazete@mail.com" targety="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a> 
+ <a href="mailto:janainabazete@gmail.com" targety="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a> 
 </div>
