@@ -1,10 +1,10 @@
-## Hello! I'm Nina Bazete, *nice meet you*!
+## Hello! I'm Nina Bazete, *nice to meet you*!
 
 
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on FrontEnd - JavaScrip - React - DOM - HTML - CSS - git
-- 🌱 I’m currently learning by myself, autodidact.
+- 🌱 I’m self taught!
 - 👯 I’m looking for front-end collabs.
 - 🤔 I’m looking for help with with Angular and React
 - 😄 Pronouns: She/ Her
